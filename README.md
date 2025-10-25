@@ -131,6 +131,7 @@ The vast majority of animals which were spayed and neutered left the shelter aft
 We were only looking at the LA metropolitan area, but it is unfortunate that there wasn’t any sort of collective data even for that specific area. It would be helpful for there to be a larger dataset, which would allow us to look at other geographic areas. If we could compare the data from an inner city area to areas closer to the rural-urban border, we might have a better idea of potential outcomes for animals that are brought into a shelter.
 
 I think that the tools we used for this project were adequate, however I am pretty sure that we could come to a more satisfying conclusion if we included more advanced tools like keras or pytorch. Overall, I am pleased with how well the tools that were available to us performed.  
+
 **Summary**
 
 Our most significant finding from examining the data is that most animals taken in are released in less than a month, provided that they are not a feral animal. This means that the majority of animals are either reunited with their humans, or find a new home. 
